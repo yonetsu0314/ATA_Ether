@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[DisplaySetting.csproj]
+SCC_Aux_Path = "\\katata\hakari\vss\WLanDisp"
+SCC_Project_Name = "$/WlanDisplay-tool.root/WlanDisplay-tool vcs2010ex/wLanDisplaySetting", URBAAAAA
